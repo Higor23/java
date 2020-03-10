@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteCarro",
+            "request": "launch",
+            "mainClass": "aula25.TesteCarro",
+            "projectName": "CursoJavaBasicoLoiane_987ad6ab"
+        }
+    ]
+}
