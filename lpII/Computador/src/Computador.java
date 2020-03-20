@@ -34,8 +34,8 @@ public class Computador {
         this.processador = processador;
     }
     
-    public void Imprimir(int memoria, int hd, String processador){
-        //System.out.println(processador + "HD " + hd + " GB " + memoria + " GB de RAM." );
+    public void Imprimir(){
+        System.out.println(processador + "HD " + hd + " GB " + memoria + " GB de RAM." );
     }
     
 }

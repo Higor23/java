@@ -15,6 +15,6 @@ public class aula_16_09_03 {
         int b = 2019;
         
         
-        System.out.println(b,a);
+        System.out.println(b-a + "");
     }
 }
